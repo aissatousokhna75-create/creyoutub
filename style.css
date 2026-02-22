@@ -1,0 +1,151 @@
+.menue{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: white;
+    color: rgb(17, 17, 17);
+    
+    gap: 70px;
+    margin-top: -10px;
+    margin-right: 10px;
+    position: fixed;
+    
+    
+    }
+    
+    
+.menue2{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    margin-left: 10px;
+    margin-top: 15pxpx;
+    color: white;
+    
+    
+
+}
+.menue3{
+    display: flex;
+    gap: 60px;
+    margin-left: 90px;
+    margin-top: -340px;
+    width: 500px;
+    
+    
+    
+}
+.youb{
+    
+    color: black;
+    
+}
+.recherche{
+    width: 400px;
+    height: 30px;
+    border-radius: 20px;
+    border: black solid 1px;
+    padding: 0 10px;
+    background-color: white;
+    color: black;
+}
+.bouton{
+    width: 900px;
+    
+    
+    border-radius: 10px;
+    
+    
+    
+    
+    color: rgb(17, 17, 17);
+}
+.bouton1{
+    width: 800px;
+    border-radius: 15px;
+    background-color: rgb(17, 17, 17);
+    color: white;
+    
+    
+    
+    
+  
+}
+.first-page{
+    border-radius: 20px;
+    display: flex;
+    gap: 20px;
+    margin-left: 80px;
+    
+    margin-top: 20px;
+
+
+}
+
+.video video{
+    border-radius: 10px;
+    background-color: rgb(22, 21, 21);
+    background-size: cover;
+    color: rgb(10, 10, 10);
+    
+}
+.description{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.second-page{
+    display: flex;
+    gap: 20px;
+    margin-left: 80px;
+    padding-top: 50px;
+    margin-bottom: 50px;
+}
+body{
+    background-color: white
+}
+.image{
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+}
+.floux{
+    color: rgb(184, 180, 180);
+    margin-left: 10px;
+    font-size: 20px;
+    margin-top: -30px;
+}
+.Cher{
+    display: flex;
+    gap: 2px;
+    margin-left: 100px;
+    margin-top: -10px;
+}
+.visiter{
+    display: flex;
+    gap: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 400px;
+    height: 40px;
+}
+.aicha{
+    width: 150px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: rgb(230, 221, 221);
+    color: rgb(8, 8, 8);
+}
+.sokhna{
+    width: 150px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: rgb(17, 17, 17);
+    color: white;
+}
+
+    
+    
+
